@@ -1,0 +1,23 @@
+#row1 {
+    background-color: rgb(220, 203, 203) 241, 241;
+}
+
+.text-primary {
+    font-size: 50px;
+    
+}
+
+.btn-primary {
+    background-color: rgba(231, 176, 46, 0.652);
+    border-color: rgb(15, 14, 14);
+    text-align: center;
+
+}
+
+.btn-success {
+   background-color: rgba(184, 184, 176, 0.652);
+   
+   border-color: rgb(15, 14, 14);
+   text-align:center
+ 
+}
